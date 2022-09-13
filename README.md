@@ -1,8 +1,3 @@
-# 
-
-[website]()
-
-
 Hi This is Ravi K R from Karnataka, welcome to my git profile.
 
 # Project Name : 2. Restaurant-home-page ![](https://img.shields.io/badge/Project-2-green)
